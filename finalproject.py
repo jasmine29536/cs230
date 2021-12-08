@@ -1,6 +1,6 @@
 """
-Class: CS230--Section 1
-Name: Jasmine Lin
+Class: CS230
+Name: Jasmine
 Description: (Final CS230 Project that reads in a csv file and then manipulates the data to show charts and maps.)
 I pledge that I have completed the programming assignment independently. 
 I have not copied the code from a student or any source.
